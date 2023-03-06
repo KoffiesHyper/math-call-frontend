@@ -11,6 +11,7 @@ export default async function Home() {
   return (
     <div>
       <Link href='/login'><button>Login</button></Link>
+      <Link href='/sign-up'><button>Sign Up</button></Link>
     </div>
   )
 }
